@@ -101,43 +101,31 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="A">A</h2>  
 
 <ol>
-<li><a href="https://www.accenture.com/in-en/careers">Accenture</a></li>
-<li><a href="https://www.accolite.com/careers">Accolite software</a>  </li>
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
-<li><a href="https://www.adobe.com/careers.html">Adobe</a>  </li>
 <li><a href="https://able.co/team">Able</a>  </li>
 <li><a href="https://angel.co/company/abstract/jobs">Abstract</a>  </li>
 <li><a href="https://acko.skillate.com/">Acko</a></li>
 <li><a href="https://careers.accredible.com/">Accredible</a>  </li>
-<li><a href="https://careers.activisionblizzard.com/">Activision Blizzard</a>  </li>
 <li><a href="https://www.affinidi.com/careers">Affinidi</a>  </li>
 <li><a href="http://agilesolutions.com/careers-2/">Agile Solutions</a>      </li>
-<li><a href="https://agnikul.in/#/career">Agnikul Cosmos</a>   </li>
 <li><a href="https://www.airbase.com/careers">Airbase</a></li>
 <li><a href="https://careers.airbnb.com/">Airbnb</a>  </li>
 <li><a href="https://www.airbus.com/careers.html">Airbus</a>    </li>
-<li><a href="https://careers.airtel.com/">Airtel x labs</a>  </li>
-<li><a href="https://www.ajio.com/ajio-careers">Ajio</a>    </li>
 <li><a href="https://www.akamai.com/careers">Akamai</a>   </li>
-<li><a href="https://talent.alibaba.com/en/home?lang=en">Alibaba Group</a></li>
 <li><a href="https://www.alstom.com/careers">Alstom</a></li>
 <li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
 <li><a href="https://lgads.tv/careers/">Alphonso</a>  </li>
 <li><a href="https://jobs.amadeus.com/">Amadeus labs</a>    </li>
 <li><a href="https://www.amagi.com/careers">Amagi</a>  </li>
-<li><a href="https://careers.amd.com/careers-home">AMD</a>   </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
 <li><a href="https://asset.amdocs.com/careers/">Amdocs</a></li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
-<li><a href="https://www.amway.in/about-amway/careers">Amway</a>    </li>
 <li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
 <li><a href="https://www.analog.com/en/about-adi/careers.html">Analog Devices</a>   </li>
 <li><a href="https://www.ansys.com/en-in/careers">Ansys</a>  </li>
-<li><a href="https://www.instahyre.com/jobs-at-apna/">Apna</a>    </li>
 <li><a href="https://www.appdynamics.com/company/careers/india">App Dynamics</a></li>
 <li><a href="https://appen.com/jobs/">Appen</a></li>
 <li><a href="https://www.appfolio.com/company/careers">Appfolio</a></li>
-<li><a href="https://www.apple.com/careers/us/">Apple</a> </li>
 <li><a href="https://appinventiv.com/career/">AppInventiv</a>   </li>
 <li><a href="https://www.appliedmaterials.com/us/en/careers.html">Applied Materials</a>   </li>
 <li><a href="https://jobs.aptiv.com/">Aptiv</a></li>
@@ -765,7 +753,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="Z">Z</h2>  
 
 <ol>
-<li><a href="https://zeptonow.openings.co/#!/#openpositions">Zepto</a></li>
 <li><a href="https://careers.zerodha.com/">zerodha</a>  </li>
 <li><a href="https://careers.zeta.tech/work-with-us/">Zeta</a></li>
 <li><a href="https://careers.zivame.com/">ZivaMe</a>  </li>
@@ -783,10 +770,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://www.1mg.com/jobs">1 mg</a>  </li>
-<li><a href="https://www.3i-infotech.com/careers/">3i Infotech</a> </li>
-<li><a href="https://www.4iapps.com/careers/#jobs">4i Apps</a> </li>
 <li><a href="https://www.314e.com/">314e Corporation</a>  </li>
-<li><a href="https://www.247.ai/company/careers">[24]7.ai</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
