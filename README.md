@@ -610,8 +610,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="Y">Y</h2>  
 
 <ol>
-<li><a href="https://yellow.ai/career">yellow.ai</a>  </li>
-<li><a href="https://www.yugabyte.com/careers/">yugabyte</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
