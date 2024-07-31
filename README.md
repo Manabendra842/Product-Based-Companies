@@ -103,6 +103,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
 <li><a href="https://able.co/team">Able</a>  </li>
+  <li><a href="  https://www.autodesk.com/in  "> Autodesk </a>  </li>
 <li><a href="https://angel.co/company/abstract/jobs">Abstract</a>  </li>
 <li><a href="https://careers.accredible.com/">Accredible</a>  </li>
 <li><a href="https://www.affinidi.com/careers">Affinidi</a>  </li>
@@ -407,6 +408,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.mounttalent.com/">Mount talent</a></li>
 <li><a href="https://www.mtxb2b.com/s/career">MTX</a></li>
 <li><a href="https://multiverseapp.com/">Multiverse Software</a></li>
+<li><a href="https://www.manh.com/en-in">Manhattan Associates</a></li>
+  
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -449,27 +452,14 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://jobs.paloaltonetworks.com/en/">Palo Alto Networks</a></li>
-<li><a href="https://parkplus.io/we-are-hiring#hiring">Park+</a>  </li>
-<li><a href="https://www.paypal.com/in/webapps/mpp/jobs">Paypal</a>  </li>
 <li><a href="https://payu.in/careers">PayU</a>  </li>
-<li><a href="https://www.gopazo.com/">Pazo</a>  </li>
-<li><a href="https://www.peoplestrong.com/careers/">PeopleStrong</a></li>
 <li><a href="https://pharmeasy.in/careers/">PharmEasy</a>  </li>
-<li><a href="https://www.phonepe.com/careers/">Phonepe</a>  </li>
-<li><a href="https://www.playment.io/careers">Playment</a>  </li>
-<li><a href="https://planful.com/jobs/">Planful</a>  </li>
-<li><a href="https://polygon.technology/careers/">Polygon Technology</a></li>
 <li><a href="https://www.postman.com/company/careers/">postman</a>  </li>
-<li><a href="https://practo.app.param.ai/jobs">Practo</a></li>
-<li><a href="https://careers.priceline.com/search">priceline</a>  </li>
-<li><a href="https://www.principal.com/about-us/careers/global-jobs">Principal</a></li>
 <li><a href="https://www.privado.ai">Privado.ai</a></li>
 <li><a href="https://www.providencehealthcare.org/careers">Providence Healthcare</a></li>
-<li><a href="https://jobs.lever.co/protegrity?location=Bengaluru">Protegrity</a>  </li>
 <li><a href="https://www.proximity.tech/careers">Proximity Labs</a>  </li>
-<li><a href="https://www.prodapt.com/en/careers/">Prodapt</a></li>
 <li><a href="https://careers.publicissapient.com/">Publicis Sapient</a></li>
-<li><a href="https://pubmatic.com/careers/home/">PubMatic</a></li>
+  <li><a href="https://www.pwc.in/"> PWC </a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -479,7 +469,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://quantiphi.com/careers/">Quantiphi</a> </li>
-<li><a href="https://www.linkedin.com/company/quicksell/jobs/">QuickSell</a> </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -487,13 +476,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="R">R</h2>  
 <ol>
-<li><a href="https://ramp.com/careers">Ramp</a>  </li>
 <li><a href="https://razorpay.com/jobs/">Razorpay</a>  </li>
-<li><a href="https://angel.co/company/reelohq">Reelo</a></li>
-<li><a href="https://www.getreprise.com/careers/">Reprise</a></li>
 <li><a href="https://www.rippling.com/careers">Rippling</a>  </li>
-<li><a href="https://www.rivigo.com/careers/">Rivigo</a></li>
-<li><a href="https://www.myrocketcareer.com/">Rocket Companies</a></li>
 <li><a href="https://www.rubrik.com/company/careers">Rubrik</a></li>
 <li><a href="https://www.weareroku.com/jobs/search">Roku</a></li>
 </ol>
@@ -505,17 +489,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://www.sabre.com/careers/">Sabre corporation</a>  </li>
-<li><a href="https://www.salarybox.in/careers">SalaryBox</a></li>
 <li><a href="https://www.salesforce.com/company/careers/">Salesforce</a>  </li>
 <li><a href="https://jobs.sap.com/">SAP</a>  </li>
-<li><a href="https://www.se.com/in/en/about-us/careers/overview.jsp">Schneider Electric</a>   </li>
-<li><a href="https://jobs.sendinblue.com/en">SendinBlue</a></li>
 <li><a href="https://serpapi.com/team">SerpApi</a>  </li>
 <li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
-<li><a href="https://www.shell.com/careers.html">Shell</a>  </li>
 <li><a href="https://careers.shiprocket.in/">Shiprocket</a></li>
-<li><a href="https://shipsy.io/career/">Shipsy</a></li>
-<li><a href="https://careers.shopee.sg/">Shopee</a></li>
 <li><a href="https://www.shopify.com/careers">Shopify</a></li>
 <li><a href="https://new.siemens.com/global/en/company/jobs/our-locations/india.html">Siemens</a></li>
 <li><a href="https://www.siemens-healthineers.com/en-in/careers">Siemens Healthineers</a></li>
