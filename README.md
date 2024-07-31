@@ -520,16 +520,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://new.siemens.com/global/en/company/jobs/our-locations/india.html">Siemens</a></li>
 <li><a href="https://www.siemens-healthineers.com/en-in/careers">Siemens Healthineers</a></li>
 <li><a href="https://www.sigmoid.com/careers/">Sigmoid</a></li>
-<li><a href="https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000">SkillVertex</a></li>
-<li><a href="https://skyroot.in/join/">Skyroot Aerospace</a> </li>
-<li><a href="https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in">Sling Media</a>    </li>
 <li><a href="https://www.smithsdetection.com/careers/">Smith Detection</a>  </li>
-<li><a href="https://www.sonyjobs.com/careers.html">Sony</a>  </li>
-<li><a href="https://spinny.freshteam.com/jobs">Spinny</a>  </li>
 <li><a href="https://www.sprinklr.com/careers/">Sprinklr</a></li>
-<li><a href="https://www.squadstack.com/careers/">Squadstack</a></li>
-<li><a href="https://stripe.com/in/jobs">Stripe</a>  </li>
-<li><a href="https://sureify.com/careers/">Sureify</a></li>
 <li><a href="https://www.synopsys.com/careers.html">Synopsys</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -554,7 +546,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.tower-research.com/positions">tower research capital</a>  </li>
 <li><a href="https://www.linkedin.com/company/treebohotels/jobs/">Treebo Hotels</a></li>
 <li><a href="https://turvo.com/careers/">Turvo</a></li>
-</ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
@@ -562,9 +553,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="U">U</h2>  
 
 <ol>
-<li><a href="https://careers.ukg.com/">Ultimate Kronos Group</a></li>
 <li><a href="https://unicommerce.com/careers/">Unicommerce</a></li>
-<li><a href="https://jobs.unisys.com/us/en">Unisys</a>    </li>
 <li><a href="https://jobs.lever.co/upstox">Upstox</a>    </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -574,12 +563,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="V">V</h2>  
 
 <ol>
-<li><a href="https://valuefy-solutions.breezy.hr/">Valuefy</a></li>
 <li><a href="https://careers.viasat.com/">Viasat</a>  </li>
-<li><a href="https://vicara.ch/careers/">Vicara</a></li>
 <li><a href="https://www.visa.co.in/careers.html">Visa</a></li>
 <li><a href="https://careers.vmware.com/main/">Vmware</a>  </li>
-<li><a href="https://vogo.in/careers/">Vogo</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -590,8 +576,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://www.wellsfargo.com/about/careers/">Wells Fargo</a>  </li>
 <li><a href="https://jobs.westerndigital.com/">Western Digital</a>  </li>
-<li><a href="https://whatfix.com/careers/">Whatfix</a></li>
-<li><a href="https://wooqer.com/careers/">Wooqer</a></li>
 <li><a href="https://www.worldquant.com/careers/">worldQuant</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -601,7 +585,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="X">X</h2>  
 
 <ol>
-<li><a href="https://www.xicom.biz/careers/">Xicom Technologies</a></li>
+
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -621,7 +605,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.zerodha.com/">zerodha</a>  </li>
 <li><a href="https://careers.zeta.tech/work-with-us/">Zeta</a></li>
 <li><a href="https://careers.zohocorp.com/jobs/Careers">zoho</a>   </li>
-<li><a href="https://www.zoomcar.com/careers">ZoomCar</a> </li>
 <li><a href="https://jobs.zs.com/all/jobs">ZS</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
