@@ -108,7 +108,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="http://agilesolutions.com/careers-2/">Agile Solutions</a>      </li>
 <li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
 <li><a href="https://lgads.tv/careers/">Alphonso</a>  </li>
-<li><a href="https://jobs.amadeus.com/">Amadeus labs</a>    </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
 <li><a href="https://asset.amdocs.com/careers/">Amdocs</a></li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
@@ -116,23 +115,17 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.analog.com/en/about-adi/careers.html">Analog Devices</a>   </li>
 <li><a href="https://www.ansys.com/en-in/careers">Ansys</a>  </li>
 <li><a href="https://www.appdynamics.com/company/careers/india">App Dynamics</a></li>
-<li><a href="https://appen.com/jobs/">Appen</a></li>
-<li><a href="https://www.appfolio.com/company/careers">Appfolio</a></li>
-<li><a href="https://appinventiv.com/career/">AppInventiv</a>   </li>
 <li><a href="https://www.appliedmaterials.com/us/en/careers.html">Applied Materials</a>   </li>
 <li><a href="https://jobs.aptiv.com/">Aptiv</a></li>
 <li><a href="https://www.aqr.com/About-Us/Careers">AQR</a>  </li>
 <li><a href="https://www.arcesium.com/careers.html">Arcesium</a>   </li>
 <li><a href="https://www.arista.com/en/careers">Arista Networks</a>  </li>
 <li><a href="https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in">Aryaka networks</a></li>
-<li><a href="https://www.asml.com/en/careers">ASML</a>  </li>
 <li><a href="https://atlan.com/careers/">Atlan</a></li>
 <li><a href="https://www.atlassian.com/company/careers">Atlassian</a>  </li>
 <li><a href="https://jobs.adp.com/">Automatic Data Processing</a>   </li>
-<li><a href="https://auzmor.com/careers/">Auzmor</a>  </li>
 <li><a href="https://availfinance.in/opportunities/">Avail finance</a>  </li>
 <li><a href="https://www.avalara.com/us/en/about/jobs/job-openings.html">Avalara</a>  </li>
-<li><a href="https://careers.avaya.com/">Avaya</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -147,7 +140,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.bmc.com/careers/careers.html">BMC software</a>  </li>
 <li><a href="https://jobs.bnymellon.com/">BNY Mellon</a></li>
 <li><a href="https://jobs.booking.com/careers">Booking.com</a></li>
-<li><a href="https://www.bottomline.com/apac/about/careers">Bottemline Technologies</a> </li>
 <li><a href="https://www.broadcom.com/company/careers">Broadcom</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
