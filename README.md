@@ -414,10 +414,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.sabre.com/careers/">Sabre corporation</a>  </li>
 <li><a href="https://www.salesforce.com/company/careers/">Salesforce</a>  </li>
 <li><a href="https://jobs.sap.com/">SAP</a>  </li>
-<li><a href="https://serpapi.com/team">SerpApi</a>  </li>
 <li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
 <li><a href="https://careers.shiprocket.in/">Shiprocket</a></li>
-<li><a href="https://www.shopify.com/careers">Shopify</a></li>
 <li><a href="https://new.siemens.com/global/en/company/jobs/our-locations/india.html">Siemens</a></li>
 <li><a href="https://www.siemens-healthineers.com/en-in/careers">Siemens Healthineers</a></li>
 <li><a href="https://www.sigmoid.com/careers/">Sigmoid</a></li>
@@ -432,21 +430,12 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="T">T</h2>  
 
 <ol>
-<li><a href="https://corporate.target.com/careers">Target</a>  </li>
-<li><a href="https://www.tataadvancedsystems.com/careers.php">TATA Advanced Sysytems Ltd</a></li>
-<li><a href="https://www.tatanexarc.com/careers/">TATA nexarc</a>      </li>
-<li><a href="https://careers.te.com/">TE Connectivity</a></li>
-<li><a href="https://www.teksystems.com/en-in/careers">TEK Systems</a></li>
-<li><a href="https://tekion.com/careers">Tekion corp</a></li>
-<li><a href="https://testingbot.com/careers">TestingBot</a></li>
-<li><a href="https://careers.teradata.com/">Teradata</a></li>
+<li><a href="https://careers.te.com/">TE connectivity</a></li>
 <li><a href="https://careers.ti.com/">Texas Instruments</a> </li>
 <li><a href="https://www.tsmc.com/static/english/careers/index.htm">TSMC</a></li>
 <li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
 <li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
 <li><a href="https://www.tower-research.com/positions">tower research capital</a>  </li>
-<li><a href="https://www.linkedin.com/company/treebohotels/jobs/">Treebo Hotels</a></li>
-<li><a href="https://turvo.com/careers/">Turvo</a></li>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
