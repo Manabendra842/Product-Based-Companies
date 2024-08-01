@@ -149,23 +149,14 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://home.barclays/careers/">Barclays</a></li>
-<li><a href="https://benchmarkit.zohorecruit.com/jobs/Careers">Benchmark</a> </li>
-<li><a href="https://better.com/about-us/careers">Better</a></li>
-<li><a href="https://www.bidgely.com/bidgely-career-opportunities/">Bidgely</a>   </li>
 <li><a href="https://www.linkedin.com/company/billdesk/jobs/">Billdesk</a>  </li>
-<li><a href="https://bitly.com/pages/careers">bitly</a>  </li>
 <li><a href="https://www.blackbuck.com/careers.php">BlackBuck</a></li>
-<li><a href="https://careers.blackrock.com/">Blackrock</a></li>
-<li><a href="https://block.xyz/careers">Block Inc</a></li>
 <li><a href="https://www.bluejeans.com/careers">BlueJeans</a></li>
 <li><a href="https://www.bluestacks.com/work-at-bluestacks.html">Bluestacks</a></li>
 <li><a href="https://www.bmc.com/careers/careers.html">BMC software</a>  </li>
 <li><a href="https://jobs.bnymellon.com/">BNY Mellon</a></li>
-<li><a href="https://jobs.boeing.com/">Boeing</a> </li>
 <li><a href="https://jobs.booking.com/careers">Booking.com</a></li>
 <li><a href="https://www.bottomline.com/apac/about/careers">Bottemline Technologies</a> </li>
-<li><a href="https://careers-bounce.peoplestrong.com/portal/job/joblist">Bounce</a></li>
-<li><a href="https://www.box.com/en-in/careers">Box</a></li>
 <li><a href="https://www.broadcom.com/company/careers">Broadcom</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -259,8 +250,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.f5.com/company/careers/">F5</a> </li>
 <li><a href="https://www.factset.com/careers">factset</a>  </li>
 <li><a href="https://jobs.fidelity.com/">Fidelity investments</a>  </li>
-<li><a href="https://www.fireeye.com/company/jobs.html">FireEye inc</a>  </li>
-<li><a href="https://fischerjordan.com/careers/">Fischer Jordan</a> </li>
 <li><a href="https://www.careers.fiserv.com/">fiserv</a></li>
 <li><a href="https://www.flexport.com/careers/jobs/">Flexport</a></li>
 <li><a href="https://www.linkedin.com/company/flyfin-ai/jobs/">FlyFin</a></li>
@@ -388,20 +377,13 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="M">M</h2>  
 
 <ol>
-<li><a href="https://magicpin.darwinbox.in/ms/candidate/careers">Magicpin</a>  </li>
 <li><a href="https://www.mastercard.us/en-us/vision/who-we-are/careers.html">Mastercard</a>  </li>
 <li><a href="https://mastery.net/careers/">Mastery</a></li>
 <li><a href="https://in.mathworks.com/company/jobs/opportunities.html">Mathworks</a>  </li>
-<li><a href="https://www.mckinsey.com/in/careers-in-india">McKinsey</a></li>
 <li><a href="https://careers.media.net/">Media.net</a> </li>
-<li><a href="https://memory.ai/jobs">Memory</a></li>
 <li><a href="https://micron.eightfold.ai/careers">Micron</a></li>
 <li><a href="https://www.mindtickle.com/careers/">MindTickle</a></li>
- <li><a href="https://www.molbiodiagnostics.com/career.php">Molbio Diagnostics</a>  </li>
 <li><a href="https://www.morganstanley.com/people-opportunities/">Morgan Stanley</a>  </li>
-<li><a href="https://careers.mounttalent.com/">Mount talent</a></li>
-<li><a href="https://www.mtxb2b.com/s/career">MTX</a></li>
-<li><a href="https://multiverseapp.com/">Multiverse Software</a></li>
 <li><a href="https://www.manh.com/en-in">Manhattan Associates</a></li>
   
 </ol>
