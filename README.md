@@ -105,11 +105,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://able.co/team">Able</a>  </li>
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
 <li><a href="https://angel.co/company/abstract/jobs">Abstract</a>  </li>
-<li><a href="http://agilesolutions.com/careers-2/">Agile Solutions</a>      </li>
 <li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
 <li><a href="https://lgads.tv/careers/">Alphonso</a>  </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
-<li><a href="https://asset.amdocs.com/careers/">Amdocs</a></li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
 <li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
 <li><a href="https://www.analog.com/en/about-adi/careers.html">Analog Devices</a>   </li>
@@ -123,8 +121,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in">Aryaka networks</a></li>
 <li><a href="https://atlan.com/careers/">Atlan</a></li>
 <li><a href="https://www.atlassian.com/company/careers">Atlassian</a>  </li>
-<li><a href="https://jobs.adp.com/">Automatic Data Processing</a>   </li>
-<li><a href="https://availfinance.in/opportunities/">Avail finance</a>  </li>
 <li><a href="https://www.avalara.com/us/en/about/jobs/job-openings.html">Avalara</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -195,7 +191,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.epam.com/">Epam</a></li>
 <li><a href="https://www.ericsson.com/en/careers">Ericsson</a></li>
 <li><a href="https://careers.equinix.com/homepage">Equinix</a>  </li>
-<li><a href="https://exlservice.com/careers">EXL Healthcare</a>  </li>
 <li><a href="https://lifeatexpediagroup.com/jobs/">Expedia</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -209,12 +204,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.factset.com/careers">factset</a>  </li>
 <li><a href="https://www.careers.fiserv.com/">fiserv</a></li>
 <li><a href="https://www.flexport.com/careers/jobs/">Flexport</a></li>
-<li><a href="https://www.linkedin.com/company/flyfin-ai/jobs/">FlyFin</a></li>
-<li><a href="https://www.fincover.com/">fincover</a></li>
 <li><a href="https://fractal.ai/job-openings/">Fractal</a>  </li>
 <li><a href="https://frappe.io/careers">Frappe Technologies(Open Source) </a></li>
 <li><a href="https://www.freshworks.com/company/life-at-freshworks/careers/">Freshworks</a></li>
-<li><a href="https://www.fylehq.com/company/team/join">fyle</a></li>
 <li><a href="https://www.fico.com/en/careers">Fico</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -261,7 +253,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="http://www.infospoke.in/careers.html">Infospoke</a>    </li>
 <li><a href="https://innovaccer.com/careers/">Innovaccer</a>  </li>
 <li><a href="https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html">Intel</a></li>
-<li><a href="https://www.intellika.in/careers/">Intellika</a>  </li>
 <li><a href="https://www.intuit.com/careers/">Intuit</a>  </li>
 <li><a href="https://www.ipinfusion.com/career/">IP Infusion</a></li>
 <li><a href="https://www.iquanti.com/contact-us/careers/">iQuanti</a></li>
@@ -345,9 +336,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://obvious.in/careers">Obvious</a></li>
-<li><a href="https://www.ocrolus.com/careers/">Ocrolus</a></li>
 <li><a href="https://www.oracle.com/apac/corporate/careers/">Oracle</a>  </li>
-<li><a href="https://www.observe.ai/careers#section-current-openings">Observe.ai</a></li>
 <li><a href="https://careers.opentext.com/">OpenText</a></li>
 <li><a href="https://www.optum.in/about/careers.html">Optum</a></li>
 <li><a href="https://optym.com/careers/">Optym</a></li>
