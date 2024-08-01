@@ -222,13 +222,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.dataminr.com/careers">Dataminr</a></li>
 <li><a href="https://www.dbs.com/careers/default.page">DBS</a></li>
 <li><a href="https://www.deshawindia.com/careers/career-development">D. E. Shaw &amp; Co.</a></li>
-<li><a href="https://www.dealshare.in/careers#home">DealShare</a>  </li>
 <li><a href="https://careers.db.com/">Deutsche Bank</a>  </li>
-<li><a href="https://www.dialpad.com/careers/">Dialpad</a></li>
-<li><a href="https://careers.directi.com/">Directi</a>  </li>
-<li><a href="https://digit.co/careers">digit</a>  </li>
-<li><a href="https://www.digitalocean.com/careers">digitalocean</a>  </li>
-<li><a href="https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2">Disney</a></li>
 <li><a href="https://www.doximity.com/careers">doximity</a></li>
 <li><a href="https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions">DP World</a>  </li>
 <li><a href="https://droom.in/career">droom</a>       </li>
