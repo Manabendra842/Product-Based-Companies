@@ -105,13 +105,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://able.co/team">Able</a>  </li>
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
 <li><a href="https://angel.co/company/abstract/jobs">Abstract</a>  </li>
-<li><a href="https://careers.accredible.com/">Accredible</a>  </li>
-<li><a href="https://www.affinidi.com/careers">Affinidi</a>  </li>
 <li><a href="http://agilesolutions.com/careers-2/">Agile Solutions</a>      </li>
-<li><a href="https://www.airbase.com/careers">Airbase </a>  </li>
-<li><a href="https://www.airbus.com/careers.html">Airbus</a>    </li>
-<li><a href="https://www.akamai.com/careers">Akamai</a>   </li>
-<li><a href="https://www.alstom.com/careers">Alstom</a></li>
 <li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
 <li><a href="https://lgads.tv/careers/">Alphonso</a>  </li>
 <li><a href="https://jobs.amadeus.com/">Amadeus labs</a>    </li>
@@ -132,7 +126,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.arista.com/en/careers">Arista Networks</a>  </li>
 <li><a href="https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in">Aryaka networks</a></li>
 <li><a href="https://www.asml.com/en/careers">ASML</a>  </li>
-<li><a href="https://www.athenahealth.com/careers">Athena Health</a>  </li>
 <li><a href="https://atlan.com/careers/">Atlan</a></li>
 <li><a href="https://www.atlassian.com/company/careers">Atlassian</a>  </li>
 <li><a href="https://jobs.adp.com/">Automatic Data Processing</a>   </li>
