@@ -102,7 +102,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
-<li><a href="https://able.co/team">Able</a>  </li>
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
 <li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
@@ -111,11 +110,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.analog.com/en/about-adi/careers.html">Analog Devices</a>   </li>
 <li><a href="https://www.appdynamics.com/company/careers/india">App Dynamics</a></li>
 <li><a href="https://www.appliedmaterials.com/us/en/careers.html">Applied Materials</a>   </li>
-<li><a href="https://jobs.aptiv.com/">Aptiv</a></li>
-<li><a href="https://www.aqr.com/About-Us/Careers">AQR</a>  </li>
 <li><a href="https://www.arcesium.com/careers.html">Arcesium</a>   </li>
 <li><a href="https://www.arista.com/en/careers">Arista Networks</a>  </li>
-<li><a href="https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in">Aryaka networks</a></li>
 <li><a href="https://atlan.com/careers/">Atlan</a></li>
 <li><a href="https://www.atlassian.com/company/careers">Atlassian</a>  </li>
 <li><a href="https://www.avalara.com/us/en/about/jobs/job-openings.html">Avalara</a>  </li>
@@ -150,7 +146,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://jobs.citrix.com/">Citrix</a>  </li>
 <li><a href="https://cradlepoint.com/about-us/careers/job-listings/">Cradlepoint</a> </li>
 <li><a href="https://www.credit-suisse.com/careers/en/apply.html">Credit Suisse</a></li>
-<li><a href="https://www.cvent.com/en/careers">Cvent</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
