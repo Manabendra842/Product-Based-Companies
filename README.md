@@ -383,6 +383,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
 <li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
 <li><a href="https://www.tower-research.com/positions">tower research capital</a>  </li>
+ </ol> 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
