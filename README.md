@@ -155,7 +155,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://databricks.com/company/careers/open-positions">Databricks</a></li>
-<li><a href="https://www.dataminr.com/careers">Dataminr</a></li>
 <li><a href="https://www.dbs.com/careers/default.page">DBS</a></li>
 <li><a href="https://www.deshawindia.com/careers/career-development">D. E. Shaw &amp; Co.</a></li>
 <li><a href="https://careers.db.com/">Deutsche Bank</a>  </li>
@@ -236,7 +235,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html">Intel</a></li>
 <li><a href="https://www.intuit.com/careers/">Intuit</a>  </li>
 <li><a href="https://www.ipinfusion.com/career/">IP Infusion</a></li>
-<li><a href="https://www.iquanti.com/contact-us/careers/">iQuanti</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
