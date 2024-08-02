@@ -106,7 +106,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
 <li><a href="https://angel.co/company/abstract/jobs">Abstract</a>  </li>
 <li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
-<li><a href="https://lgads.tv/careers/">Alphonso</a>  </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
 <li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
@@ -171,10 +170,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.dbs.com/careers/default.page">DBS</a></li>
 <li><a href="https://www.deshawindia.com/careers/career-development">D. E. Shaw &amp; Co.</a></li>
 <li><a href="https://careers.db.com/">Deutsche Bank</a>  </li>
-<li><a href="https://www.doximity.com/careers">doximity</a></li>
 <li><a href="https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions">DP World</a>  </li>
-<li><a href="https://droom.in/career">droom</a>       </li>
-<li><a href="https://www.druva.com/about/careers/">Druva</a>  </li>
 <li><a href="https://duo.com/careers">duo</a> </li>
 <li><a href="https://careers.dupont.com/us/en">DuPont</a></li>
 <li><a href="https://careers.dynatrace.com/">dynatrace</a></li>
@@ -247,7 +243,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.ibm.com/in-en/employment/">IBM</a></li>
 <li><a href="https://www.ideaforge.co.in/career/">IdeaForge</a></li>
 <li><a href="https://www.impactanalytics.co/join-us/">Impact Analytics</a></li>
-<li><a href="https://careers.indiamart.com/">India Mart</a></li>
 <li><a href="https://www.infor.com/nordics/about/careers">Infor</a></li>
 <li><a href="https://informatica.gr8people.com/jobs">Informatica</a></li>
 <li><a href="http://www.infospoke.in/careers.html">Infospoke</a>    </li>
@@ -303,7 +298,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.mastercard.us/en-us/vision/who-we-are/careers.html">Mastercard</a>  </li>
 <li><a href="https://mastery.net/careers/">Mastery</a></li>
 <li><a href="https://in.mathworks.com/company/jobs/opportunities.html">Mathworks</a>  </li>
-<li><a href="https://careers.media.net/">Media.net</a> </li>
 <li><a href="https://micron.eightfold.ai/careers">Micron</a></li>
 <li><a href="https://www.mindtickle.com/careers/">MindTickle</a></li>
 <li><a href="https://www.morganstanley.com/people-opportunities/">Morgan Stanley</a>  </li>
