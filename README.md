@@ -159,7 +159,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.dbs.com/careers/default.page">DBS</a></li>
 <li><a href="https://www.deshawindia.com/careers/career-development">D. E. Shaw &amp; Co.</a></li>
 <li><a href="https://careers.db.com/">Deutsche Bank</a>  </li>
-<li><a href="https://duo.com/careers">duo</a> </li>
 <li><a href="https://careers.dupont.com/us/en">DuPont</a></li>
 <li><a href="https://careers.dynatrace.com/">dynatrace</a></li>
 </ol>
