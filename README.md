@@ -419,23 +419,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-<h2 id="X">X</h2>  
-
-<ol>
-
-</ol>
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
-<h2 id="Y">Y</h2>  
-
-<ol>
-</ol>
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
 <h2 id="Z">Z</h2>  
 
 <ol>
