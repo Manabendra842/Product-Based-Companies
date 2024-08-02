@@ -110,7 +110,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
 <li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
 <li><a href="https://www.analog.com/en/about-adi/careers.html">Analog Devices</a>   </li>
-<li><a href="https://www.ansys.com/en-in/careers">Ansys</a>  </li>
 <li><a href="https://www.appdynamics.com/company/careers/india">App Dynamics</a></li>
 <li><a href="https://www.appliedmaterials.com/us/en/careers.html">Applied Materials</a>   </li>
 <li><a href="https://jobs.aptiv.com/">Aptiv</a></li>
@@ -326,7 +325,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="O">O</h2>  
 
 <ol>
-<li><a href="https://obvious.in/careers">Obvious</a></li>
 <li><a href="https://www.oracle.com/apac/corporate/careers/">Oracle</a>  </li>
 <li><a href="https://careers.opentext.com/">OpenText</a></li>
 <li><a href="https://www.optum.in/about/careers.html">Optum</a></li>
