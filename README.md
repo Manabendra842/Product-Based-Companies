@@ -104,7 +104,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
 <li><a href="https://able.co/team">Able</a>  </li>
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
-<li><a href="https://angel.co/company/abstract/jobs">Abstract</a>  </li>
 <li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
@@ -130,7 +129,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://home.barclays/careers/">Barclays</a></li>
 <li><a href="https://www.blackbuck.com/careers.php">BlackBuck</a></li>
-<li><a href="https://www.bluejeans.com/careers">BlueJeans</a></li>
 <li><a href="https://www.bmc.com/careers/careers.html">BMC software</a>  </li>
 <li><a href="https://jobs.bnymellon.com/">BNY Mellon</a></li>
 <li><a href="https://jobs.booking.com/careers">Booking.com</a></li>
@@ -150,10 +148,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.cerner.com/">Cerner</a></li>
 <li><a href="https://jobs.cisco.com/">Cisco</a>  </li>
 <li><a href="https://jobs.citrix.com/">Citrix</a>  </li>
-<li><a href="https://www.continental.com/en/career/">Continental</a></li>
 <li><a href="https://cradlepoint.com/about-us/careers/job-listings/">Cradlepoint</a> </li>
 <li><a href="https://www.credit-suisse.com/careers/en/apply.html">Credit Suisse</a></li>
-<li><a href="https://www.crestron.com/About/careers-jobs-employment-opportunities">Crestron</a></li>
 <li><a href="https://www.cvent.com/en/careers">Cvent</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -163,13 +159,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="D">D</h2>  
 
 <ol>
-<li><a href="https://www.dashlane.com/about/careers">Dashlane</a></li>
 <li><a href="https://databricks.com/company/careers/open-positions">Databricks</a></li>
 <li><a href="https://www.dataminr.com/careers">Dataminr</a></li>
 <li><a href="https://www.dbs.com/careers/default.page">DBS</a></li>
 <li><a href="https://www.deshawindia.com/careers/career-development">D. E. Shaw &amp; Co.</a></li>
 <li><a href="https://careers.db.com/">Deutsche Bank</a>  </li>
-<li><a href="https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions">DP World</a>  </li>
 <li><a href="https://duo.com/careers">duo</a> </li>
 <li><a href="https://careers.dupont.com/us/en">DuPont</a></li>
 <li><a href="https://careers.dynatrace.com/">dynatrace</a></li>
