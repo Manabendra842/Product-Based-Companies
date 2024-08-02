@@ -245,7 +245,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.impactanalytics.co/join-us/">Impact Analytics</a></li>
 <li><a href="https://www.infor.com/nordics/about/careers">Infor</a></li>
 <li><a href="https://informatica.gr8people.com/jobs">Informatica</a></li>
-<li><a href="http://www.infospoke.in/careers.html">Infospoke</a>    </li>
 <li><a href="https://innovaccer.com/careers/">Innovaccer</a>  </li>
 <li><a href="https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html">Intel</a></li>
 <li><a href="https://www.intuit.com/careers/">Intuit</a>  </li>
@@ -261,7 +260,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://careers.jpmorgan.com/IN/en/home">JP Morgan</a>  </li>
 <li><a href="https://www.juniper.net/us/en/company/culture-careers.html">Juniper networks</a></li>
-<li><a href="https://jobs.lever.co/jupiter">Jupiter money</a>  </li>
 <li><a href="https://www.juspay.in/careers/">Juspay</a>  </li>
 <li><a href="https://jumbotail.com/careers/">Jumbotail</a></li>
 </ol>
@@ -318,7 +316,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.netapp.com/company/careers/">NetApp</a>      </li>
 <li><a href="https://www.netcracker.com/careers/">Netcracker</a></li>
 <li><a href="https://netmeds.darwinbox.in/ms/candidate/careers">Netmeds</a></li>
-<li><a href="https://nurture.farm/join-us/">nurture.farm</a>  </li>
 <li><a href="https://www.nutanix.com/company/careers">Nutanix</a>   </li>
 <li><a href="https://www.nvidia.com/en-in/about-nvidia/careers/">Nvidia</a>  </li>
 </ol>
@@ -347,7 +344,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://pharmeasy.in/careers/">PharmEasy</a>  </li>
 <li><a href="https://www.postman.com/company/careers/">postman</a>  </li>
 <li><a href="https://www.privado.ai">Privado.ai</a></li>
-<li><a href="https://www.providencehealthcare.org/careers">Providence Healthcare</a></li>
 <li><a href="https://www.proximity.tech/careers">Proximity Labs</a>  </li>
 <li><a href="https://careers.publicissapient.com/">Publicis Sapient</a></li>
   <li><a href="https://www.pwc.in/"> PWC </a></li>
@@ -369,8 +365,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://razorpay.com/jobs/">Razorpay</a>  </li>
 <li><a href="https://www.rippling.com/careers">Rippling</a>  </li>
-<li><a href="https://www.rubrik.com/company/careers">Rubrik</a></li>
-<li><a href="https://www.weareroku.com/jobs/search">Roku</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -383,7 +377,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.salesforce.com/company/careers/">Salesforce</a>  </li>
 <li><a href="https://jobs.sap.com/">SAP</a>  </li>
 <li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
-<li><a href="https://careers.shiprocket.in/">Shiprocket</a></li>
 <li><a href="https://new.siemens.com/global/en/company/jobs/our-locations/india.html">Siemens</a></li>
 <li><a href="https://www.siemens-healthineers.com/en-in/careers">Siemens Healthineers</a></li>
 <li><a href="https://www.sigmoid.com/careers/">Sigmoid</a></li>
