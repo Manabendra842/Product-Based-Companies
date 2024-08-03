@@ -75,7 +75,7 @@
    <table>
       <thead>
          <tr>
-            <th align="center">Total companies added</th>
+           <th align="center">Total companies</th>
          </tr>
       </thead>
       <tbody>
