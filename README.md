@@ -278,7 +278,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="M">M</h2>  
 
 <ol>
-<li><a href="https://www.mastercard.us/en-us/vision/who-we-are/careers.html">Mastercard</a>  </li>
 <li><a href="https://mastery.net/careers/">Mastery</a></li>
 <li><a href="https://in.mathworks.com/company/jobs/opportunities.html">Mathworks</a>  </li>
 <li><a href="https://micron.eightfold.ai/careers">Micron</a></li>
@@ -400,7 +399,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://careers.viasat.com/">Viasat</a>  </li>
-<li><a href="https://www.visa.co.in/careers.html">Visa</a></li>
 <li><a href="https://careers.vmware.com/main/">Vmware</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
