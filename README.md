@@ -299,7 +299,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.ncr.com/careers">NCR Corporation</a></li>
 <li><a href="https://www.netapp.com/company/careers/">NetApp</a>      </li>
 <li><a href="https://www.netcracker.com/careers/">Netcracker</a></li>
-<li><a href="https://netmeds.darwinbox.in/ms/candidate/careers">Netmeds</a></li>
 <li><a href="https://www.nutanix.com/company/careers">Nutanix</a>   </li>
 <li><a href="https://www.nvidia.com/en-in/about-nvidia/careers/">Nvidia</a>  </li>
 </ol>
@@ -432,7 +431,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="0-9">0-9</h2>  
 
 <ol>
-<li><a href="https://www.1mg.com/jobs">1 mg</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
