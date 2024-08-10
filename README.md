@@ -187,7 +187,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.careers.fiserv.com/">fiserv</a></li>
 <li><a href="https://www.flexport.com/careers/jobs/">Flexport</a></li>
 <li><a href="https://fractal.ai/job-openings/">Fractal</a>  </li>
-<li><a href="https://frappe.io/careers">Frappe Technologies(Open Source) </a></li>
 <li><a href="https://www.freshworks.com/company/life-at-freshworks/careers/">Freshworks</a></li>
 <li><a href="https://www.fico.com/en/careers">Fico</a></li>
 </ol>
