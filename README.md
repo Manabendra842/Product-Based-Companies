@@ -251,15 +251,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-<h2 id="K">K</h2>
-
-<ol>
-
-<li><a href="https://www.kla-tencor.com/careers">KLA Tencor</a>  </li>
-</ol>
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
 
 <h2 id="L">L</h2>   
 
@@ -279,7 +270,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://mastery.net/careers/">Mastery</a></li>
 <li><a href="https://in.mathworks.com/company/jobs/opportunities.html">Mathworks</a>  </li>
-<li><a href="https://micron.eightfold.ai/careers">Micron</a></li>
 <li><a href="https://www.mindtickle.com/careers/">MindTickle</a></li>
 <li><a href="https://www.morganstanley.com/people-opportunities/">Morgan Stanley</a>  </li>
 <li><a href="https://www.manh.com/en-in">Manhattan Associates</a></li>
@@ -293,7 +283,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 
-<li><a href="https://www.ni.com/en-in/about-ni/careers.html">National instruments</a>  </li>
 <li><a href="https://jobs.natwestgroup.com/search/jobs/in/country/india">NatWest Group</a></li>
 <li><a href="https://www.ncr.com/careers">NCR Corporation</a></li>
 <li><a href="https://www.netapp.com/company/careers/">NetApp</a>      </li>
@@ -322,7 +311,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://jobs.paloaltonetworks.com/en/">Palo Alto Networks</a></li>
 <li><a href="https://payu.in/careers">PayU</a>  </li>
-<li><a href="https://pharmeasy.in/careers/">PharmEasy</a>  </li>
 <li><a href="https://www.postman.com/company/careers/">postman</a>  </li>
 <li><a href="https://www.privado.ai">Privado.ai</a></li>
 <li><a href="https://www.proximity.tech/careers">Proximity Labs</a>  </li>
@@ -373,8 +361,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://careers.te.com/">TE connectivity</a></li>
-<li><a href="https://careers.ti.com/">Texas Instruments</a> </li>
-<li><a href="https://www.tsmc.com/static/english/careers/index.htm">TSMC</a></li>
 <li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
 <li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
 <li><a href="https://www.tower-research.com/positions">tower research capital</a>  </li>
@@ -426,18 +412,5 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-<!-- ## 0-9   -->
-<h2 id="0-9">0-9</h2>  
-
-<ol>
-</ol>
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>  
- 
- 
- 
- 
- 
  
 <div id="Bottom"></div>
