@@ -380,7 +380,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://careers.viasat.com/">Viasat</a>  </li>
-<li><a href="https://careers.vmware.com/main/">Vmware</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
