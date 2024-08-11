@@ -340,7 +340,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="S">S</h2>  
 
 <ol>
-<li><a href="https://www.sabre.com/careers/">Sabre corporation</a>  </li>
 <li><a href="https://www.salesforce.com/company/careers/">Salesforce</a>  </li>
 <li><a href="https://jobs.sap.com/">SAP</a>  </li>
 <li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
