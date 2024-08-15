@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">122</td>
+            <td align="center">120</td>
          </tr>
       </tbody>
    </table>
@@ -103,7 +103,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
-<li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
 <li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
@@ -359,7 +358,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.te.com/">TE connectivity</a></li>
 <li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
 <li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
-<li><a href="https://www.tower-research.com/positions">tower research capital</a>  </li>
  </ol> 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
