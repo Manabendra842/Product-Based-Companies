@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">118</td>
+            <td align="center">117</td>
          </tr>
       </tbody>
    </table>
@@ -124,7 +124,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.blackbuck.com/careers.php">BlackBuck</a></li>
 <li><a href="https://www.bmc.com/careers/careers.html">BMC software</a>  </li>
 <li><a href="https://jobs.bnymellon.com/">BNY Mellon</a></li>
-<li><a href="https://jobs.booking.com/careers">Booking.com</a></li>
 <li><a href="https://www.broadcom.com/company/careers">Broadcom</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
