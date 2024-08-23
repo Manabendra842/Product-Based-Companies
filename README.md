@@ -308,7 +308,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.privado.ai">Privado.ai</a></li>
 <li><a href="https://www.proximity.tech/careers">Proximity Labs</a>  </li>
 <li><a href="https://careers.publicissapient.com/">Publicis Sapient</a></li>
-  <li><a href="https://www.pwc.in/"> PWC </a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
