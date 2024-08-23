@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">120</td>
+            <td align="center">118</td>
          </tr>
       </tbody>
    </table>
