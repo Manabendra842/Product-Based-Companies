@@ -207,6 +207,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://hashedin.com/careers/">Hashedin</a></li>
 <li><a href="https://careers.honeywell.com/">Honeywell</a></li>
+<li><a href="https://careers.hpe.com/us/en/careers-at-hpe">HPE</a></li>
 <li><a href="https://www.hsbc.com/careers">HSBC Bank</a></li>    
 <li><a href="https://apply.workable.com/huggingface/">Huggingface</li>
 </ol>
