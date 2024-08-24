@@ -236,7 +236,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://careers.jpmorgan.com/IN/en/home">JP Morgan</a>  </li>
-<li><a href="https://www.juniper.net/us/en/company/culture-careers.html">Juniper networks</a></li>
 <li><a href="https://www.juspay.in/careers/">Juspay</a>  </li>
 <li><a href="https://jumbotail.com/careers/">Jumbotail</a></li>
 </ol>
