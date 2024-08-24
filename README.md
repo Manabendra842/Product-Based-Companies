@@ -110,7 +110,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.arista.com/en/careers">Arista Networks</a>  </li>
 <li><a href="https://atlan.com/careers/">Atlan</a></li>
 <li><a href="https://www.atlassian.com/company/careers">Atlassian</a>  </li>
-<li><a href="https://www.avalara.com/us/en/about/jobs/job-openings.html">Avalara</a>  </li>
 <li><a href="https://www.bounteous.com/"> Accolite digital </a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
