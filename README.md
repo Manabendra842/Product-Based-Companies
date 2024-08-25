@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">113</td>
+            <td align="center">115</td>
          </tr>
       </tbody>
    </table>
@@ -103,7 +103,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
-<li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
+<li><a href="https://www.amazon.jobs/en/">Amazon</a></li>
+<li><a href="https://www.analog.com/en/careers.html">Analog Devices</a></li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
 <li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
 <li><a href="https://www.arcesium.com/careers.html">Arcesium</a>   </li>
@@ -349,6 +350,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://careers.te.com/">TE connectivity</a></li>
+<li><a href="https://careers.ti.com/">Texas Instruments</a></li>
 <li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
 <li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
  </ol> 
