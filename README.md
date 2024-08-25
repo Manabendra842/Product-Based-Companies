@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">114</td>
+            <td align="center">113</td>
          </tr>
       </tbody>
    </table>
@@ -224,7 +224,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.infor.com/nordics/about/careers">Infor</a></li>
 <li><a href="https://informatica.gr8people.com/jobs">Informatica</a></li>
 <li><a href="https://innovaccer.com/careers/">Innovaccer</a>  </li>
-<li><a href="https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html">Intel</a></li>
 <li><a href="https://www.intuit.com/careers/">Intuit</a>  </li>
 <li><a href="https://www.ipinfusion.com/career/">IP Infusion</a></li>
 </ol>
