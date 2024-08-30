@@ -277,6 +277,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <li><a href="https://jobs.natwestgroup.com/search/jobs/in/country/india">NatWest Group</a></li>
 <li><a href="https://www.ncr.com/careers">NCR Corporation</a></li>
+<li><a href="https://www.nxp.com/company/about-nxp/careers:CAREERS">NXP semiconductors</a></li>
 <li><a href="https://www.netapp.com/company/careers/">NetApp</a>      </li>
 <li><a href="https://www.netcracker.com/careers/">Netcracker</a></li>
 <li><a href="https://www.nutanix.com/company/careers">Nutanix</a>   </li>
@@ -302,7 +303,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://jobs.paloaltonetworks.com/en/">Palo Alto Networks</a></li>
 <li><a href="https://payu.in/careers">PayU</a>  </li>
-<li><a href="https://www.postman.com/company/careers/">postman</a>  </li>
 <li><a href="https://www.privado.ai">Privado.ai</a></li>
 <li><a href="https://www.proximity.tech/careers">Proximity Labs</a>  </li>
 <li><a href="https://careers.publicissapient.com/">Publicis Sapient</a></li>
