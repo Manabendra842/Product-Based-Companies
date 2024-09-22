@@ -252,6 +252,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.linkedin.com/">LinkedIn</a> </li>
 <li><a href="https://www.logic-fruit.com/">LogicFruit</a> </li>
 <li><a href="https://www.logicmonitor.com/careers">Logicmonitor</a></li>
+<li><a href="https://leetcode.com">Leetcode</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -393,7 +394,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://careers.zerodha.com/">zerodha</a>  </li>
 <li><a href="https://careers.zeta.tech/work-with-us/">Zeta</a></li>
-<li><a href="https://careers.zohocorp.com/jobs/Careers">zoho</a>   </li>
 <li><a href="https://jobs.zs.com/all/jobs">ZS</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
