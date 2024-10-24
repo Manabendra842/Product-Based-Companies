@@ -252,7 +252,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.linkedin.com/">LinkedIn</a> </li>
 <li><a href="https://www.logic-fruit.com/">LogicFruit</a> </li>
 <li><a href="https://www.logicmonitor.com/careers">Logicmonitor</a></li>
-<li><a href="https://leetcode.com">Leetcode</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -354,6 +353,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.ti.com/">Texas Instruments</a></li>
 <li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
 <li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
+<li><a href="https://innovations.trilogy.com/> Trillogy innovations </a></li>
  </ol> 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
