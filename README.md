@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">115</td>
+            <td align="center">112</td>
          </tr>
       </tbody>
    </table>
@@ -197,7 +197,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.google.com/">Google</a></li>
 <li><a href="https://www.globallogic.com/in/careers/">Global Logic</a></li>
 <li><a href="https://grafana.com/about/careers/">Grafana</a></li>
-<li><a href="https://groww.skillate.com/">Groww</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -249,7 +248,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://www.lambdatest.com/career">LambdaTest</a>  </li>
 <li><a href="https://thelevel.ai/career/">Level AI</a></li>
-<li><a href="https://careers.linkedin.com/">LinkedIn</a> </li>
 <li><a href="https://www.logic-fruit.com/">LogicFruit</a> </li>
 <li><a href="https://www.logicmonitor.com/careers">Logicmonitor</a></li>
 </ol>
@@ -392,7 +390,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="Z">Z</h2>  
 
 <ol>
-<li><a href="https://careers.zerodha.com/">zerodha</a>  </li>
 <li><a href="https://careers.zeta.tech/work-with-us/">Zeta</a></li>
 <li><a href="https://jobs.zs.com/all/jobs">ZS</a></li>
 </ol>
