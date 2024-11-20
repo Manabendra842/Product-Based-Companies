@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">113</td>
+            <td align="center">112</td>
          </tr>
       </tbody>
    </table>
@@ -154,7 +154,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://databricks.com/company/careers/open-positions">Databricks</a></li>
 <li><a href="https://www.dbs.com/careers/default.page">DBS</a></li>
-<li><a href="https://www.deshawindia.com/careers/career-development">D. E. Shaw &amp; Co.</a></li>
 <li><a href="https://careers.db.com/">Deutsche Bank</a>  </li>
 <li><a href="https://careers.dynatrace.com/">dynatrace</a></li>
 </ol>
