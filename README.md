@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">112</td>
+            <td align="center">111</td>
          </tr>
       </tbody>
    </table>
@@ -362,7 +362,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://unicommerce.com/careers/">Unicommerce</a></li>
-<li><a href="https://jobs.lever.co/upstox">Upstox</a>    </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
