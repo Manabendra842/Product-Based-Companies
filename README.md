@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">111</td>
+            <td align="center">110</td>
          </tr>
       </tbody>
    </table>
@@ -104,9 +104,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a></li>
-<li><a href="https://www.analog.com/en/careers.html">Analog Devices</a></li>
+<li><a href="[https://www.analog.com/en/careers.html](https://new.abb.com/products/robotics)">ABB</a></li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
-<li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
 <li><a href="https://www.arcesium.com/careers.html">Arcesium</a>   </li>
 <li><a href="https://www.arista.com/en/careers">Arista Networks</a>  </li>
 <li><a href="https://atlan.com/careers/">Atlan</a></li>
@@ -170,6 +169,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.ericsson.com/en/careers">Ericsson</a></li>
 <li><a href="https://careers.equinix.com/homepage">Equinix</a>  </li>
 <li><a href="https://lifeatexpediagroup.com/jobs/">Expedia</a>  </li>
+<li><a href="https://www.emerson.com/en-in">Emerson</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -276,7 +276,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <li><a href="https://jobs.natwestgroup.com/search/jobs/in/country/india">NatWest Group</a></li>
 <li><a href="https://www.ncr.com/careers">NCR Corporation</a></li>
-<li><a href="https://www.nxp.com/company/about-nxp/careers:CAREERS">NXP semiconductors</a></li>
 <li><a href="https://www.netapp.com/company/careers/">NetApp</a>      </li>
 <li><a href="https://www.netcracker.com/careers/">Netcracker</a></li>
 <li><a href="https://www.nutanix.com/company/careers">Nutanix</a>   </li>
@@ -323,6 +322,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://razorpay.com/jobs/">Razorpay</a>  </li>
 <li><a href="https://www.rippling.com/careers">Rippling</a>  </li>
+  <li><a href="https://www.rockwellautomation.com/en-in.html">Rockwell Automation</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -349,7 +349,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://careers.te.com/">TE connectivity</a></li>
-<li><a href="https://careers.ti.com/">Texas Instruments</a></li>
 <li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
 <li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
 <li><a href="https://innovations.trilogy.com/"> Trillogy innovations </a></li>
