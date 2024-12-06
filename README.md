@@ -104,7 +104,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
 <li><a href="https://www.autodesk.com/in"> Autodesk </a>  </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a></li>
-<li><a href="[https://www.analog.com/en/careers.html](https://new.abb.com/products/robotics)">ABB</a></li>
+<li><a href="https://new.abb.com/products/robotics">ABB</a></li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
 <li><a href="https://www.arcesium.com/careers.html">Arcesium</a>   </li>
 <li><a href="https://www.arista.com/en/careers">Arista Networks</a>  </li>
