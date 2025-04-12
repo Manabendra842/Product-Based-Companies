@@ -379,7 +379,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://www.wellsfargo.com/about/careers/">Wells Fargo</a>  </li>
 <li><a href="https://jobs.westerndigital.com/">Western Digital</a>  </li>
-<li><a href="https://www.worldquant.com/careers/">worldQuant</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
