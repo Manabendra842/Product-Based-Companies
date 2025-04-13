@@ -193,7 +193,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://jobs.gartner.com/">Gartner</a></li>
-<li><a href="https://jobs.gecareers.com/healthcare/global/en">GE Healthcare</a>  </li>
 <li><a href="https://www.goldmansachs.com/careers/">Goldman Sachs</a>   </li>
 <li><a href="https://careers.google.com/">Google</a></li>
 <li><a href="https://www.globallogic.com/in/careers/">Global Logic</a></li>
@@ -334,7 +333,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://jobs.sap.com/">SAP</a>  </li>
 <li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
 <li><a href="https://new.siemens.com/global/en/company/jobs/our-locations/india.html">Siemens</a></li>
-<li><a href="https://www.siemens-healthineers.com/en-in/careers">Siemens Healthineers</a></li>
 <li><a href="https://www.sigmoid.com/careers/">Sigmoid</a></li>
 <li><a href="https://www.smithsdetection.com/careers/">Smith Detection</a>  </li>
 <li><a href="https://www.sprinklr.com/careers/">Sprinklr</a></li>
