@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">108</td>
+            <td align="center">107</td>
          </tr>
       </tbody>
    </table>
@@ -260,7 +260,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://mastery.net/careers/">Mastery</a></li>
-<li><a href="https://in.mathworks.com/company/jobs/opportunities.html">Mathworks</a>  </li>
 <li><a href="https://www.mindtickle.com/careers/">MindTickle</a></li>
 <li><a href="https://www.morganstanley.com/people-opportunities/">Morgan Stanley</a>  </li>
 <li><a href="https://www.manh.com/en-in">Manhattan Associates</a></li>
