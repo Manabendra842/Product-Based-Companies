@@ -340,6 +340,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.smithsdetection.com/careers/">Smith Detection</a>  </li>
 <li><a href="https://www.sprinklr.com/careers/">Sprinklr</a></li>
 <li><a href="https://www.synopsys.com/careers.html">Synopsys</a></li>
+<li><a href="https://www.spacex.com/careers/">SpaceX</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -360,15 +361,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://unicommerce.com/careers/">Unicommerce</a></li>
-</ol>
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
-<h2 id="V">V</h2>  
-
-<ol>
-<li><a href="https://careers.viasat.com/">Viasat</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
