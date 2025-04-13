@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">105</td>
+            <td align="center">104</td>
          </tr>
       </tbody>
    </table>
@@ -377,7 +377,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://careers.zeta.tech/work-with-us/">Zeta</a></li>
-<li><a href="https://jobs.zs.com/all/jobs">ZS</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
