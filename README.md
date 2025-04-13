@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">104</td>
+            <td align="center">103</td>
          </tr>
       </tbody>
    </table>
@@ -138,7 +138,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.capillarytech.com/about-us/careers/">Capillary</a></li>
 <li><a href="https://www.celigo.com/company/careers/">Celigo</a>  </li>
 <li><a href="https://jobs.citi.com/">Citi Bank</a>  </li>    
-<li><a href="https://careers.cerner.com/">Cerner</a></li>
 <li><a href="https://jobs.cisco.com/">Cisco</a>  </li>
 <li><a href="https://jobs.citrix.com/">Citrix</a>  </li>
 <li><a href="https://cradlepoint.com/about-us/careers/job-listings/">Cradlepoint</a> </li>
