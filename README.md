@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">103</td>
+            <td align="center">101</td>
          </tr>
       </tbody>
    </table>
@@ -234,7 +234,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://careers.jpmorgan.com/IN/en/home">JP Morgan</a>  </li>
-<li><a href="https://www.juspay.in/careers/">Juspay</a>  </li>
 <li><a href="https://jumbotail.com/careers/">Jumbotail</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -297,7 +296,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://jobs.paloaltonetworks.com/en/">Palo Alto Networks</a></li>
-<li><a href="https://payu.in/careers">PayU</a>  </li>
+<li><a href="https://www.phonepe.com/careers/job-openings">PhonePe</a>  </li>
 <li><a href="https://www.privado.ai">Privado.ai</a></li>
 <li><a href="https://www.proximity.tech/careers">Proximity Labs</a>  </li>
 <li><a href="https://careers.publicissapient.com/">Publicis Sapient</a></li>
@@ -317,7 +316,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="R">R</h2>  
 <ol>
-<li><a href="https://razorpay.com/jobs/">Razorpay</a>  </li>
 <li><a href="https://www.rippling.com/careers">Rippling</a>  </li>
   <li><a href="https://www.rockwellautomation.com/en-in.html">Rockwell Automation</a>  </li>
 </ol>
