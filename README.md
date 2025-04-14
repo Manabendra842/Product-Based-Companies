@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">101</td>
+            <td align="center">100</td>
          </tr>
       </tbody>
    </table>
@@ -182,7 +182,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.flexport.com/careers/jobs/">Flexport</a></li>
 <li><a href="https://fractal.ai/job-openings/">Fractal</a>  </li>
 <li><a href="https://www.freshworks.com/company/life-at-freshworks/careers/">Freshworks</a></li>
-<li><a href="https://www.fico.com/en/careers">Fico</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
