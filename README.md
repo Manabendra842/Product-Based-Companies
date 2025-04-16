@@ -80,7 +80,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">100</td>
+            <td align="center">99</td>
          </tr>
       </tbody>
    </table>
@@ -167,7 +167,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.epam.com/">Epam</a></li>
 <li><a href="https://www.ericsson.com/en/careers">Ericsson</a></li>
 <li><a href="https://careers.equinix.com/homepage">Equinix</a>  </li>
-<li><a href="https://lifeatexpediagroup.com/jobs/">Expedia</a>  </li>
 <li><a href="https://www.emerson.com/en-in">Emerson</a>  </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
